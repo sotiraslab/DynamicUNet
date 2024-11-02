@@ -1,6 +1,6 @@
 The official repo for the manuscript "Dynamic U-Net: Adaptively Calibrate Features for Abdominal Multi-organ Segmentation".
 
-Please refer to nnUNet for this installation.
+Please refer to nnUNet for the installation.
 
 Citation
 =======
