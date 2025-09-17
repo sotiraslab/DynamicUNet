@@ -7,10 +7,13 @@ Citation
 If you use Dynamic U-Net in your research, please consider to cite our work.
 
 ```
-@article{yang2024dynamic,
-  title={Dynamic u-net: Adaptively calibrate features for abdominal multi-organ segmentation},
+@inproceedings{yang2025dynamic,
+  title={Dynamic U-Net: Adaptively calibrate features for abdominal multiorgan segmentation},
   author={Yang, Jin and Marcus, Daniel S and Sotiras, Aristeidis},
-  journal={arXiv preprint arXiv:2403.07303},
-  year={2024}
+  booktitle={Medical Imaging 2025: Computer-Aided Diagnosis},
+  volume={13407},
+  pages={326--334},
+  year={2025},
+  organization={SPIE}
 }
 ```
